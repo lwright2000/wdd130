@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+    background-color: #fca6c9;
+    text-align: center;
+}
+#whitetext {
+    color: white;
+}
+header {
+    font-weight: bold;
+   
+}
+#Education {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Education:hover {
+    color: black;
+    
+}
+ol {
+    display: inline-block;
+    text-align: left;
+    font-weight: bold;
+
+}
+#nelson {
+    display: inline-block;
+}
+#whitetext2 {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    width: 15%;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#bottomtext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
