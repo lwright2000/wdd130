@@ -3,4 +3,11 @@
 }
 h3 {
     text-decoration: underline;
+    background-color: #C2FFED;
+}
+body {
+    background-color: #D6FFF3;
+}
+h2 {
+    background-color: #ADFFE7;
 }
