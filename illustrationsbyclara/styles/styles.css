@@ -1,0 +1,22 @@
+body {
+    background-color: #FCC5E6 ; 
+    font-family: 'Lato';
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:#FFADB3;
+    display: grid;
+    grid-template-columns: 150px auto;
+    margin: 0 auto;
+}
+
+nav a {
+    text-align: center;
+    color: #AD4848;
+    text-decoration: none;
+    padding: 35px;
+
+}
